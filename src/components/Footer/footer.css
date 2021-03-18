@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.footer {
+    background: linear-gradient(35deg,purple,orange);
+    padding: 1em;
+    margin-top: .8em;
+}
+footer ul li {
+    list-style: none;
+    margin: 0 7px 0 0;
+}
+footer ul {
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;
+    justify-content: center;
+    
+}
+.credit {
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    font-family: 'Pacifico';
+}
+footer ul li i:hover{
+    color: white;
+}

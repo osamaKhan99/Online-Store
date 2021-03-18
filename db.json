@@ -1,0 +1,350 @@
+{
+  "slider":[
+    {
+      "id":1,
+      "image":"slider01.jpg"
+    },
+    {
+      "id":2,
+      "image":"slider02.png"
+    },
+    {
+      "id":3,
+      "image":"slider03.jpg"
+    }
+  ],  
+  "home":[
+        {
+          "id":1,
+          "no":1,
+          "title":"Fruits",
+          "image":"img01.jpg"
+        },
+        {
+          "id":2,
+          "no":2,
+          "title":"Vegetables",
+          "image":"img07.jpg"
+        },
+        {
+          "id":3,
+          "no":6,
+          "title":"Meat",
+          "image":"img33.jpg"
+        },
+        {
+          "id":4,
+          "no":4,
+          "title":"Oil",
+          "image":"img24.jpg"
+        },
+        {
+          "id":5,
+          "no":7,
+          "title":"Flour",
+          "image":"img25.jpg"
+        },
+        {
+          "id":6,
+          "no":5,
+          "title":"Rice",
+          "image":"img30.jpg"
+        },
+        {
+          "id":7,
+          "no":3,
+          "title":"Pulses",
+          "image":"img16.jpg"
+        }
+    ],  
+    "menu":[
+        {
+          "id":1,
+        "product":[
+          {
+              "id":2,
+              "title":"Banana",
+              "image":"img02.jpg",
+              "body":"Fresh and Quality Banana from our farms. We dont compromise in Quality ",
+              "price":"Rs. 60/dozen",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+              "id":3,
+              "title":"Fresh and Organic Apples",
+              "image":"img03.jpg",
+              "body":"Fresh and Quality Apple from our farms. We don't compromise in Quality ",
+              "price":"Rs. 100/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+              "id":4,
+              "title":"Oranges",
+              "image":"img04.png",
+              "body":"Fresh and Quality Oranges from our farms. We don't compromise in Quality ",
+              "price":"Rs. 120/dozen",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+              "id":5,
+              "title":"Watermelon",
+              "image":"img05.jpg",
+              "body":"Fresh and Quality watermelon from our farms. We dont compromise in Quality ",
+              "price":"Rs. 60/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+              "id":6,
+              "title":"Black Grapes",
+              "image":"img06.jpg",
+              "body":"Fresh and Quality Black Grapes from our farms. We dont compromise in Quality ",
+              "price":"Rs. 200/dozen",
+              "selected": false,
+              "quantity": 1
+          }
+      ]
+    },
+    {
+      "id":2,
+      "product":[
+          {
+            "id":2,
+            "title":"Potatoes",
+            "image":"img08.png",
+            "body":"Fresh and Quality Potatoes from our farms. We dont compromise in Quality ",
+            "price":"Rs. 40/kg",
+            "selected": false,
+            "quantity": 1
+          },
+          {
+            "id":3,
+            "title":"Onion (pyaz)",
+              "image":"img09.jpg",
+              "body":"Fresh, Organic and Quality Onions from our farms. We dont compromise in Quality ",
+              "price":"Rs. 60/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id":4,
+            "title":"Tomato",
+              "image":"img10.jpg",
+              "body":"Fresh and Quality tomatoes from our farms. We dont compromise in Quality ",
+              "price":"Rs. 80/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id":5,
+            "title":"Spinach",
+              "image":"img11.jpg",
+              "body":"Fresh and Quality spinach from our farms. We dont compromise in Quality ",
+              "price":"Rs. 40/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id":6,
+            "title":"Capsicum (Shimla Mirch)",
+              "image":"img12.jpg",
+              "body":"Fresh and Quality Capsicum from our farms. We dont compromise in Quality ",
+              "price":"Rs. 200/kg",
+              "selected": false,
+              "quantity": 1
+          },
+
+          {
+            "id":7,
+            "title":"Bitter Gourd (Lauki)",
+              "image":"img13.jpg",
+              "body":"Fresh and Quality Bitter gourd from our farms. We dont compromise in Quality ",
+              "price":"Rs. 50/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id":8,
+            "title":"Cabbage",
+              "image":"img14.jpg",
+              "body":"Fresh and Quality Cabbages from our farms. We dont compromise in Quality ",
+              "price":"Rs. 30/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id":9,
+            "title":"Cauliflower",
+              "image":"img15.jpg",
+              "body":"Fresh and Quality Cauliflowers from our farms. We dont compromise in Quality ",
+              "price":"Rs. 70/kg",
+              "selected": false,
+              "quantity": 1
+          }
+      ]
+    },
+    {
+      "id":3,
+      "product":[
+        {
+          "id": 2,
+          "title": "Beef",
+          "image": "img34.jpg",
+          "body": "Export Quality meat, which is best for health.",
+          "price": "Rs. 500/kg",
+          "selected": false,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "title": "Mutton",
+          "image": "img35.png",
+          "body": "Export Quality meat, which is best for health.",
+          "price": "Rs. 700/kg",
+          "selected": false,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Chicken",
+          "image": "img36.jpg",
+          "body": "Export Quality meat, which is best for health.",
+          "price": "Rs. 200/kg",
+          "selected": false,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id":4,
+      "product":[
+      {
+        "id": 2,
+        "title": "Dalda Oil",
+        "image": "img21.jpg",
+        "body": "Dalda cooking oil, 100% pure. We deal in best",
+        "price": "Rs. 180/kg",
+        "selected": false,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "title": "Meezan Oil",
+        "image": "img22.png",
+        "body": "Meezan Cooking Oil, we deal in best.",
+        "price": "Rs. 160/kg",
+        "selected": false,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "title": "Eva Oil",
+        "image": "img23.jpg",
+        "body": "Eva Cooking Oil, we deal in best.",
+        "price": "Rs. 150/kg",
+        "selected": false,
+        "quantity": 1
+      }
+    ]
+  },
+    {
+      "id":5,
+      "product":[
+        {
+          "id": 2,
+          "title": "Sunridge Flour",
+          "image": "img26.jpg",
+          "body": "Export Quality flour, which is best for health.",
+          "price": "Rs. 60/kg",
+          "selected": false,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "title": "Bake Parlour Flour",
+          "image": "img27.jpg",
+          "body": "Export Quality flour, which is best for health.",
+          "price": "Rs. 55/kg",
+          "selected": false,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Besan",
+          "image": "img28.jpg",
+          "body": "Export Quality besan, which is best for health.",
+          "price": "Rs. 80/kg",
+          "selected": false,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id":6,
+      "product":[
+        {
+          "id": 2,
+          "title": "Falak Basmati Rice",
+          "image": "img31.jpg",
+          "body": "We deals in best and quality products.",
+          "price": "Rs. 110/kg",
+          "selected": false,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "title": "Dawat Super",
+          "image": "img32.jpg",
+          "body": "We deals in best and quality products.",
+          "price": "Rs. 130/kg",
+          "selected": false,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id":7,
+      "product": [
+          {
+            "id": 2,
+            "title":"Daal Chana",
+              "image":"img17.jpg",
+              "body":"Quality pulses (daalen) from our store. We don't compromise in Quality ",
+              "price":"Rs. 120/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id": 3,
+            "title":"Daal moong",
+              "image":"img18.jpg",
+              "body":"Quality pulses (daalen) from our store. We don't compromise in Quality ",
+              "price":"80/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id": 4,
+            "title":"Daal Mash",
+              "image":"img19.jpg",
+              "body":"Quality pulses (daalen) from our store. We don't compromise in Quality ",
+              "price":"100/kg",
+              "selected": false,
+              "quantity": 1
+          },
+          {
+            "id": 5,
+            "title":"Daal Masoor",
+              "image":"img20.jpg",
+              "body":"Quality pulses (daalen) from our store. We don't compromise in Quality ",
+              "price":"80/kg",
+              "selected": false,
+              "quantity": 1
+          }
+        ]
+      }
+      ]
+}
